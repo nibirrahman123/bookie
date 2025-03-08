@@ -1,12 +1,26 @@
-# React + Vite
+# Bookie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Bookie** project! This is a web application built using **React**, **TailwindCSS**, and **Vite**. It provides a user-friendly interface to manage and browse books.
 
-Currently, two official plugins are available:
+## Project Link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can access the live version of the website here:  
+[bookWebsite123321.surge.sh](https://bookWebsite123321.surge.sh)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React-based** UI for fast and interactive user experience.
+- **TailwindCSS** for responsive and customizable design.
+- **DaisyUI** integration for beautiful UI components.
+- **React Router** for seamless navigation between different pages.
+- **LocalForage** for storing data locally in the browser.
+- **React-Toastify** for notifications.
+
+## Installation
+
+To get started with this project locally, follow these steps:
+
+### 1. Clone the repository
+
+```bash
+github repo link :  https://github.com/nibirrahman123/bookie
